@@ -480,3 +480,8 @@ O desenvolvimento da Petite Patisserie permitiu aplicar conceitos de desenvolvim
 O projeto também envolveu a organização das funcionalidades por meio do Product Backlog, permitindo registrar as atividades realizadas e acompanhar sua conclusão.
 
 Como resultado, foi construída uma aplicação voltada à apresentação e ao gerenciamento dos produtos da confeitaria, com recursos de pesquisa, carrinho e registro de pedidos, além de funcionalidades administrativas para manutenção dos cadastros.
+
+---
+
+# Prototipo
+meu prototipo para acesso: https://drive.google.com/file/d/1fkHVtN0ODYquWZYwO86d6wlP1Pb6Mc9z/view?usp=sharing 
